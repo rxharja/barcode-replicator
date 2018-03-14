@@ -1,0 +1,23 @@
+•	Activate Barcode Replicator 2.Awesome (TM) by right-clicking and choosing "Run with Powershell."
+
+•	Input your desired barcode(not case sensitive, AKA Caps dont matter). If more than one,add a space between each barcode.
+
+•	Input your desired number of labels (MAKE SURE ITS A NUMBER). If you have different quantities, add a space between each number. Otherwise just enter the number once, for example: just enter 5 if you want all barcodes to have 5
+
+•	File will generate with appropriate number of each barcode. Just print it now and you're done :)
+
+
+
+				HAVE FUN GYROS TEAM!
+
+note:
+	-You do not have to limit yourself to one page, the program will create as many pages as you need.
+
+	-You do not have to start at the very first cell on the page, you can skip as many as you want!
+
+
+		Here is how it is done:
+
+			Add a space in the beginning when it asks you for the barcodes, ex: " yc02 YH01 Vc03"
+
+			When it prompts you for how many, just add how many you want to skip first, ex: "60 5 8 15", so that's 3 barcodes but 4 numbers total
